@@ -1,0 +1,12 @@
+def func1(arg1, brg2):
+    var1 = arg1 + 5 * 5
+    bVar2 = (True and (brg2))
+
+if True:
+    a = 3
+elif (True and (5 > 2)):
+    d = 4
+else:
+    c = 5
+
+
